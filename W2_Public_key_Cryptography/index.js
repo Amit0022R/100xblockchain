@@ -1,3 +1,8 @@
+// PRIVATE KEY => A secret 64-byte key that controls your wallet.
+
+// PUBLIC KEY => A 32-byte derived key from the private key (also called your wallet address).
+
+
 // UInt8Array to ascii
 
 // function bytesToAscii(byteArray) {
